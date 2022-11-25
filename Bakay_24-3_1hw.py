@@ -23,8 +23,8 @@ h2=Hero('Эльдар','Mxqnn',500,1000)
 h3=Hero('Дидар','happydieyoung',5,10)
 h4=Hero('Мирай','miraika',1,0)
 
-h1.two_damage()
+h1.double_damage()
 h2.heal()
-h3.gritting()
+h3.greetting()
 h4.brand_phrase()
 
